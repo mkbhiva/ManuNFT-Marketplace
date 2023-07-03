@@ -2,7 +2,7 @@
 # ManuNFT Decentralized Marketplace
 With this marketplace, anyone can create the NFTs.  To create the NFTs you must have to connect with the Metamask wallet.  Anyone can also sell and buy NFTs on this ManuNFT Marketplace plateform.  We have deployed on Sepolia Testnetwork and also tested on Local Network with Truffle.
 
-
+Live Demo : https://anaxindialtd.com/manunft/
 
 Follow the steps below to download, install, and run this project.
 
